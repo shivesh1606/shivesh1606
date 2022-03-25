@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Myself Shivesh Chaturvedi 👋
 
 - 🔭 I’m currently working on an ecommerce website in flask
 - 🌱 I’m currently learning Flask
