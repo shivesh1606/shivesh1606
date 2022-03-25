@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Hosting a website.
 - 💬 Ask me about Django, FLask, Python And Tech Stuffs
-- 📫 How to reach me:  [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me:  [Facebook - shivam.chaubey.524596/](https://www.facebook.com/shivam.chaubey.524596/) , [Youtube - shivam_162001](https://www.instagram.com/shivam_162001/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I follow Eat Sleep and Reapeat!!
 -->
