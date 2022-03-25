@@ -38,9 +38,9 @@
 <a href="https://github.com/DarK-VEnOM-16">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarK-VEnOM-16&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<!-- <a href="https://github.com/NabhyaKhoria/WH_Djangoclan">
+<a href="https://github.com/NabhyaKhoria/WH_Djangoclan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NabhyaKhoria&repo=WH_Djangoclan&theme=light" />
-</a> -->
+</a>
 <a href="https://github.com/DarK-VEnOM-16/Learning">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarK-VEnOM-16&repo=Learning&theme=light" />
 </a>
