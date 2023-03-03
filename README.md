@@ -1,5 +1,5 @@
 
-### Hi there, Myself [Shivesh Chaturvedi](https://dark-venom-16.github.io/portfolio/) 👋
+### Hi there, Myself [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio/) 👋
 <a href="https://www.linkedin.com/in/shivesh-chaturvedi-14ab321b3/ ">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -32,17 +32,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<a href="https://github.com/DarK-VEnOM-16n">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarK-VEnOM-16&theme=light&hide_langs_below=1" />
+<a href="https://github.com/shivesh1606">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivesh1606&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/DarK-VEnOM-16">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarK-VEnOM-16&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/shivesh1606">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivesh1606&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/NabhyaKhoria/WH_Djangoclan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NabhyaKhoria&repo=WH_Djangoclan&theme=light" />
 </a>
-<a href="https://github.com/DarK-VEnOM-16/Learning">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarK-VEnOM-16&repo=Learning&theme=light" />
+<a href="https://github.com/shivesh1606/Learning">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivesh1606&repo=Learning&theme=light" />
 </a>
 
 <div align="center">
