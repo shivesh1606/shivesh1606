@@ -40,10 +40,10 @@
 </a>
 <a href="https://github.com/NabhyaKhoria/WH_Djangoclan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NabhyaKhoria&repo=WH_Djangoclan&theme=light" />
-</a>
+<!-- </a>
 <a href="https://github.com/shivesh1606/Learning">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivesh1606&repo=Learning&theme=light" />
-</a>
+</a> -->
 
 <div align="center">
 
